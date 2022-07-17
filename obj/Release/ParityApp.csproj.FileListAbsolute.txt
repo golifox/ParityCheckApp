@@ -1,0 +1,8 @@
+W:\Проекты\Четность\ParityApp\bin\Release\ParityApp.exe.config
+W:\Проекты\Четность\ParityApp\bin\Release\ParityApp.exe
+W:\Проекты\Четность\ParityApp\bin\Release\ParityApp.pdb
+W:\Проекты\Четность\ParityApp\obj\Release\ParityApp.csproj.AssemblyReference.cache
+W:\Проекты\Четность\ParityApp\obj\Release\ParityApp.csproj.SuggestedBindingRedirects.cache
+W:\Проекты\Четность\ParityApp\obj\Release\ParityApp.csproj.CoreCompileInputs.cache
+W:\Проекты\Четность\ParityApp\obj\Release\ParityApp.exe
+W:\Проекты\Четность\ParityApp\obj\Release\ParityApp.pdb
